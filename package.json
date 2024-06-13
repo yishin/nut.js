@@ -62,7 +62,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@nut-tree/libnut": "2.5.2",
+    "@nut-tree/libnut": "https://github.com/yishin/libnut.git",
     "clipboardy": "2.3.0",
     "jimp": "0.16.13",
     "node-abort-controller": "2.0.0"
